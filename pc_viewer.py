@@ -5,7 +5,15 @@
 #   author: Ryota Amano
 #
 #---------comment-----------
+# pointcloudをpython上で表示するクラス
 #
+# 引数のx, y, z, layerはnumpy.array
+#
+# def __init__()の引数、layer_numは出力時の色のリスト
+# を作成するために使用
+#
+# レーザが8レイヤなら8を入れればrainbowを8当分した色で描画してくれる
+# 
 #
 #---------------------------
 
