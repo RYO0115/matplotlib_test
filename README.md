@@ -1,2 +1,2 @@
 # matplotlib_test
-testing matplotlib 
+自分が使うmatplotlibのクラス 
